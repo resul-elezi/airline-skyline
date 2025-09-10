@@ -1,0 +1,27 @@
+<l<link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin />
+<link href="https://api.fonts.coollabs.io/css2?family=Concert+One&family=Passion+One:wght@400;700;900&display=swap" rel="stylesheet">
+
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.passion-one-regular {
+  font-family: "Passion One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.passion-one-bold {
+  font-family: "Passion One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.passion-one-black {
+  font-family: "Passion One", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
