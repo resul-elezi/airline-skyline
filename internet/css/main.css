@@ -1,3 +1,11 @@
+:root {
+    --light: rgb(207, 213, 235);
+     /* #cfd5eb; */
+    --dark: rgb(40, 22, 111);
+    /*  #28166f; */
+    --red: rgb(218, 37, 29);
+    /*  #da251d; */
+}
 *,
 *::before,
 *::after {
@@ -7,4 +15,7 @@
 }
 body {
     background-color: rgb(207, 213, 235);
+}
+header {
+    background-color: #fff;
 }
