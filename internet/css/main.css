@@ -5,6 +5,9 @@
     /*  #28166f; */
     --red: rgb(218, 37, 29);
     /*  #da251d; */
+    --font-heading-primary: 'Concert One', sans-serif;
+    --font-heading-secondary: 'Passion One', sans-serif;
+    --font-text: Arial, Verdana, Helvetica, 'Courier New';
 }
 *,
 *::before,
