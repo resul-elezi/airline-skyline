@@ -8,6 +8,10 @@
     --font-heading-primary: 'Concert One', sans-serif;
     --font-heading-secondary: 'Passion One', sans-serif;
     --font-text: Arial, Verdana, Helvetica, 'Courier New';
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+    --font-weight-black: 900;
+    
 }
 *,
 *::before,
